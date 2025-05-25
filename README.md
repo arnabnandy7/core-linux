@@ -1,1 +1,3 @@
-<!-- GitAds-Verify: YL6G9TIHGKF8QBJDK5KT5UR39TQ11LF4 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/core-linux@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/core-linux@github)
+
